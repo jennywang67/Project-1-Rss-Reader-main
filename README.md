@@ -23,4 +23,4 @@ Main Files Used:
 - NewArticle.kt, article_item.xml : Gives an overview of a specific article
 
 ZOOM Cloud Recording of Demo and Explanation:
-https://ucdavis.zoom.us/rec/play/ScttaUjw_MzUnRNoVqYdcLB8Md0z-_zwQYDTg-0rcRNxTlJmhHq9iSH72afn9doBUfI0qlV2izCTG3Ii.eOXjsqdGFgwf7HWn?continueMode=true
+https://ucdavis.zoom.us/rec/play/jy7I6cKqCAxb97G2dUXhbaCnjtLs-sCc1e8gBqYcyXA_nFhMZOD8MCW8rTCjuVs3KwNWbA0jFxex5AQD.vHFKVev-KCcV-KQp?continueMode=true
