@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Screen 1 Article -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/article_item"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="372dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text="@string/date" />
+
+    <TextView
+        android:id="@+id/article"
+        android:textStyle="bold"
+        android:layout_width="373dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text="@string/article"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/blurb"
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:paddingBottom="10pt"
+        android:text="@string/blurb" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+</LinearLayout>

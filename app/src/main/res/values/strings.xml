@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="blurb">Blurb</string>
+    <string name="article">Article</string>
+    <string name="date">date</string>
+    <string name="topic">Topic</string>
+</resources>
